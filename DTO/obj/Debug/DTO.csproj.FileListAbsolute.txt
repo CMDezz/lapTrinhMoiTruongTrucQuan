@@ -1,0 +1,24 @@
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.dll
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.pdb
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.dll
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.pdb
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.dll
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.pdb
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.dll
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.pdb
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn - Copy (2)\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.dll
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn - Copy (2)\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.pdb
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn - Copy (2)\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn - Copy (2)\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn - Copy (2)\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.dll
+D:\BaiTap\LapTrinhMoiTruongTrucQuan\DoAn - Copy (2)\DoAnLTMTTQ\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.pdb
+C:\Users\levie\OneDrive\Desktop\DoAnLTMTTQ-master (1)\DoAnLTMTTQ-master\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.dll
+C:\Users\levie\OneDrive\Desktop\DoAnLTMTTQ-master (1)\DoAnLTMTTQ-master\QuanLyCuaHangPhanBon\DTO\bin\Debug\DTO.pdb
+C:\Users\levie\OneDrive\Desktop\DoAnLTMTTQ-master (1)\DoAnLTMTTQ-master\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\levie\OneDrive\Desktop\DoAnLTMTTQ-master (1)\DoAnLTMTTQ-master\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\levie\OneDrive\Desktop\DoAnLTMTTQ-master (1)\DoAnLTMTTQ-master\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.dll
+C:\Users\levie\OneDrive\Desktop\DoAnLTMTTQ-master (1)\DoAnLTMTTQ-master\QuanLyCuaHangPhanBon\DTO\obj\Debug\DTO.pdb
